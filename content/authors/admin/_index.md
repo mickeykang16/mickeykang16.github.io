@@ -1,47 +1,45 @@
 ---
-title: "Hoonhee Cho"        # ← 여기!
-first_name: "Hoonhee"
-last_name: "Cho"
+title: "Jae-Young Kang"        # ← 여기!
+first_name: "Jae-Young"
+last_name: "Kang"
 
 role: "Ph.D. Student"
 
 
-avatar: "avatar.jpg"
+avatar: "icon.jpg"
 
-email: "gnsgnsgml@kaist.ac.kr"
+email: "mickeykang@kaist.ac.kr"
 
 
 profiles:
   - icon: "brands/github"
-    url: "https://github.com/Chohoonhee"
+    url: "https://github.com/mickeykang16/"
     label: "GitHub"
 
   - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=8h-hLRsAAAAJ"
+    url: "https://scholar.google.com/citations?user=RMw-zFEAAAAJ"
     label: "Google Scholar"
 
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/hoonheecho"
+    url: "https://www.linkedin.com/in/jae-young-kang-263014297"
     label: "LinkedIn"
 
   - icon: "at-symbol"
-    url: "mailto:gnsgnsgml@kaist.ac.kr"
+    url: "mailto:mickeykang@kaist.ac.kr"
     label: "Email"
 
 
 ---
 ## Research Interests
-- **Video & Image Enhancement**
-  - Image/Video Deblurring  
-  - Video Frame Interpolation  
 - **Autonomous Driving**
-  - Stereo Matching, Semantic Segmentation, Object Detection
   - End-to-end Autonomous Driving  
+  - Multimodal Fusion
+  - Stereo Matching, Object Detection
 - **Event Camera**
   - Application of Event Camera for Various Tasks  
 
 ## Experience
 I am currently pursuing my Ph.D. at Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Professor Kuk-Jin Yoon.
-- **2022.03 – Present** · Ph.D. student, Robotics, KAIST  
-- **2020.09 – 2022.02** · M.S., Robotics, KAIST  
-- **2016.03 – 2020.08** · B.S., Mechanical Engineering, KAIST  
+- **2025.03 – Present** · Ph.D. student, Mechanical Engineering, KAIST  
+- **2023.09 – 2025.02** · M.S., Mechanical Engineering, KAIST  
+- **2019.03 – 2023.08** · B.S., Mechanical Engineering, KAIST  
