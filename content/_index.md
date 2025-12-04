@@ -114,17 +114,22 @@ sections:
       subtitle: ''
       text: |-
         <div style="font-size:1.0rem;">
-        <ul style="list-style-position: outside; padding-left: 1.5rem;">
-          <li>
-            <strong>Qualcomm Innovation Fellowship Korea (QIFK) Finalist, 2025</strong><br>
-            Selected as a finalist for innovative PhD-level research proposals by Qualcomm
-          </li>
-        </ul>
+          <ul style="list-style-position: outside; padding-left: 1.5rem;">
+            <li>
+              <strong>Qualcomm Innovation Fellowship Korea (QIFK) Finalist, 2025</strong><br>
+              Selected as a finalist for innovative PhD-level research proposals by Qualcomm
+            </li>
+            <li>
+              <strong>CVPR Highlight (Top 3%), 2025</strong><br>
+              Ev-3DOD recognized as a Highlight paper at CVPR 2025
+            </li>
+          </ul>
         </div>
     design:
       columns: '1'
       spacing:
         padding: 0.5rem
+
 
 
 
