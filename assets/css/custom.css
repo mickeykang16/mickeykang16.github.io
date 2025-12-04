@@ -1,0 +1,23 @@
+/* 라이트 모드 배경 (기본) */
+body {
+  background-color: #f5f5f7; /* 원하는 색 */
+}
+
+/* 다크 모드 배경 */
+.dark body {
+  background-color: rgb(3, 13, 5); /* 원하는 색 */
+}
+
+/* .my-hero-gradient {
+  background: linear-gradient(135deg, #1d4ed8, #9333ea);
+} */
+
+/* 라이트 모드용 그라데이션 */
+.my-hero-gradient {
+  background: linear-gradient(135deg, #e0f2fe, #f5e1ff); /* 밝은 파스텔 느낌 */
+}
+
+/* 다크 모드용 그라데이션 */
+.dark .my-hero-gradient {
+  background: linear-gradient(135deg, #020617, #0f172a); /* 진한 네이비 계열 */
+}

@@ -5,8 +5,7 @@ last_name: "Kang"
 
 role: "Ph.D. Student"
 
-
-avatar: "icon.jpg"
+avatar: "avatar.png"
 
 email: "mickeykang@kaist.ac.kr"
 

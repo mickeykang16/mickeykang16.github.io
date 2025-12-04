@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/cv_251129.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/cv_251129.pdf
       headings:
         about: ''
         education: ''
@@ -25,10 +25,11 @@ sections:
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
+      # css_class: my-hero-gradient
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        shape: rounded # Options: circle (default), square, rounded
   # - block: collection
   #   id: papers
   #   content:
@@ -103,19 +104,7 @@ sections:
           I have been serving the research community as a reviewer for:
 
           <ul class="list-disc ml-6">
-            <li>2021 · IEEE Transactions on Instrumentation & Measurement</li>
-            <li>2023 · AAAI Conference on Artificial Intelligence (AAAI)</li>
-            <li>2023 · International Conference on Computer Vision (ICCV)</li>
-            <li>2024 · AAAI Conference on Artificial Intelligence (AAAI)</li>
-            <li>2024 · IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</li>
-            <li>2024 · IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
-            <li>2024 · European Conference on Computer Vision (ECCV)</li>
-            <li>2025 · AAAI Conference on Artificial Intelligence (AAAI)</li>
-            <li>2025 · IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</li>
-            <li>2025 · IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
-            <li>2025 · International Conference on Computer Vision (ICCV) (Outstanding Reviewers)</li>
-            <li>2025 · Conference on Neural Information Processing Systems (NeurIPS) (Top Reviewers)</li>
-            <li>2026 · AAAI Conference on Artificial Intelligence (AAAI)</li>
+            <li>2026 · IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</li>
           </ul>
         </div>
 
@@ -127,8 +116,8 @@ sections:
         <div style="font-size:1.0rem;">
         <ul style="list-style-position: outside; padding-left: 1.5rem;">
           <li>
-            <strong>Qualcomm Innovation Fellowship (QIF) Finalist, 2025</strong><br>
-            Selected as a finalist for innovative PhD-level research proposals by Qualcomm, representing South Korea.
+            <strong>Qualcomm Innovation Fellowship Korea (QIFK) Finalist, 2025</strong><br>
+            Selected as a finalist for innovative PhD-level research proposals by Qualcomm
           </li>
         </ul>
         </div>
